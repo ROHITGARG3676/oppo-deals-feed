@@ -459,14 +459,14 @@
       "variant": "12+256GB",
       "series": "Find Series",
       "mrp": 84999,
-      "final_price": 64250,
-      "best_net_price": 52355,
+      "final_price": 65950,
+      "best_net_price": 54055,
       "best_option_name": "18M No-Cost EMI",
       "best_tenure_badge": "\u26a1 18M NC EMI",
       "extra_nc_saving": 11895,
-      "saving": 32644,
-      "saving_pct": 38.4,
-      "save_pct": 5.0,
+      "saving": 30944,
+      "saving_pct": 36.4,
+      "save_pct": 3.0,
       "coupon_amt": 8000,
       "coupon_name": "Points Exchange \u20b98,000 OFF Coupon",
       "coupon_url": "https://www.oppo.com/in/store/events/diwalipointsforcoupons0923",
@@ -477,14 +477,14 @@
       "has_gifts": true,
       "gifts_in_stock": true,
       "phone_stock": 1,
-      "recipe": "1\ufe0f\u20e3 *Coupon:* [Points Page](https://www.oppo.com/in/store/events/diwalipointsforcoupons0923) se `Points Exchange \u20b98,000 OFF Coupon` (-\u20b98,000) collect karo\n2\ufe0f\u20e3 *Points Benefit:* Cart me 5.0% points apply karo (-\u20b94,250 ki bachat)\n3\ufe0f\u20e3 *Double Free Gift Benefit:* Store promotion + Live coupon se *2x Free Gifts* book hongi (\ud83c\udf81 OPPO Find X9s Quicksand Shimmer Magnetic Case Grey + OPPO Enco Buds3 Pro+ Midnight Black)!\n4\ufe0f\u20e3 *Payment & Bank Card Options:*\n\u2794 \ud83d\udcb3 *Option A (Full CC Swipe):* *`\u20b964,250`* (-\u20b98,499 Bank)\n\u2794 \ud83d\udcb3 *Option B (3M No-Cost EMI):* *`\u20b961,687`* (-\u20b98,499 Bank + -\u20b92,563 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option C (6M No-Cost EMI):* *`\u20b959,986`* (-\u20b98,499 Bank + -\u20b94,264 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option D (9M No-Cost EMI):* *`\u20b958,116`* (-\u20b98,499 Bank + -\u20b96,134 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option E (12M No-Cost EMI):* *`\u20b956,221`* (-\u20b98,499 Bank + -\u20b98,029 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option F (18M No-Cost EMI):* *`\u20b952,355`* (-\u20b98,499 Bank + -\u20b911,895 NC EMI Discount) \u2b50 SABSE SASTA (Lowest Net Rate) \ud83d\udd25\n\u2794 \ud83d\udcb3 *Option G (24M No-Cost EMI):* *`\u20b956,887`* (-\u20b915,862 NC EMI Discount)",
+      "recipe": "1\ufe0f\u20e3 *Coupon:* [Points Page](https://www.oppo.com/in/store/events/diwalipointsforcoupons0923) se `Points Exchange \u20b98,000 OFF Coupon` (-\u20b98,000) collect karo\n2\ufe0f\u20e3 *Points Benefit:* Cart me 3.0% points apply karo (-\u20b92,550 ki bachat)\n3\ufe0f\u20e3 *Double Free Gift Benefit:* Store promotion + Live coupon se *2x Free Gifts* book hongi (\ud83c\udf81 OPPO Find X9s Quicksand Shimmer Magnetic Case Grey + OPPO Enco Buds3 Pro+ Midnight Black)!\n4\ufe0f\u20e3 *Payment & Bank Card Options:*\n\u2794 \ud83d\udcb3 *Option A (Full CC Swipe):* *`\u20b965,950`* (-\u20b98,499 Bank)\n\u2794 \ud83d\udcb3 *Option B (3M No-Cost EMI):* *`\u20b963,387`* (-\u20b98,499 Bank + -\u20b92,563 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option C (6M No-Cost EMI):* *`\u20b961,686`* (-\u20b98,499 Bank + -\u20b94,264 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option D (9M No-Cost EMI):* *`\u20b959,816`* (-\u20b98,499 Bank + -\u20b96,134 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option E (12M No-Cost EMI):* *`\u20b957,921`* (-\u20b98,499 Bank + -\u20b98,029 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option F (18M No-Cost EMI):* *`\u20b954,055`* (-\u20b98,499 Bank + -\u20b911,895 NC EMI Discount) \u2b50 SABSE SASTA (Lowest Net Rate) \ud83d\udd25\n\u2794 \ud83d\udcb3 *Option G (24M No-Cost EMI):* *`\u20b958,587`* (-\u20b915,862 NC EMI Discount)",
       "product_url": "https://www.oppo.com/in/product/oppo-find-x9s.P.P1110141",
       "emi_options": [
         {
           "name": "Full CC Swipe",
           "tenure": 0,
           "tenure_badge": "\ud83d\udcb3 Full CC Swipe",
-          "net_price": 64250,
+          "net_price": 65950,
           "bank_off": 8499,
           "nc_off": 0,
           "total_off": 8499
@@ -493,7 +493,7 @@
           "name": "3M No-Cost EMI",
           "tenure": 3,
           "tenure_badge": "\u26a1 3M NC EMI",
-          "net_price": 61687,
+          "net_price": 63387,
           "bank_off": 8499,
           "nc_off": 2563,
           "total_off": 11062
@@ -502,7 +502,7 @@
           "name": "6M No-Cost EMI",
           "tenure": 6,
           "tenure_badge": "\u26a1 6M NC EMI",
-          "net_price": 59986,
+          "net_price": 61686,
           "bank_off": 8499,
           "nc_off": 4264,
           "total_off": 12763
@@ -511,7 +511,7 @@
           "name": "9M No-Cost EMI",
           "tenure": 9,
           "tenure_badge": "\u26a1 9M NC EMI",
-          "net_price": 58116,
+          "net_price": 59816,
           "bank_off": 8499,
           "nc_off": 6134,
           "total_off": 14633
@@ -520,7 +520,7 @@
           "name": "12M No-Cost EMI",
           "tenure": 12,
           "tenure_badge": "\u26a1 12M NC EMI",
-          "net_price": 56221,
+          "net_price": 57921,
           "bank_off": 8499,
           "nc_off": 8029,
           "total_off": 16528
@@ -529,7 +529,7 @@
           "name": "18M No-Cost EMI",
           "tenure": 18,
           "tenure_badge": "\u26a1 18M NC EMI",
-          "net_price": 52355,
+          "net_price": 54055,
           "bank_off": 8499,
           "nc_off": 11895,
           "total_off": 20394
@@ -538,7 +538,7 @@
           "name": "24M No-Cost EMI",
           "tenure": 24,
           "tenure_badge": "\u26a1 24M NC EMI",
-          "net_price": 56887,
+          "net_price": 58587,
           "bank_off": 0,
           "nc_off": 15862,
           "total_off": 15862
@@ -736,7 +736,7 @@
         "OPPO Enco Buds3 Pro Graphite Grey"
       ],
       "has_gifts": true,
-      "gifts_in_stock": true,
+      "gifts_in_stock": false,
       "phone_stock": 1,
       "recipe": "1\ufe0f\u20e3 *Coupon:* [Points Page](https://www.oppo.com/in/store/events/diwalipointsforcoupons0923) se `Points Exchange \u20b95,000 OFF Coupon` (-\u20b95,000) collect karo\n2\ufe0f\u20e3 *Free Gift:* Cart me `OPPO Enco Buds3 Pro Graphite Grey` free gift auto-add hoga\n3\ufe0f\u20e3 *Payment & Bank Card Options:*\n\u2794 \ud83d\udcb3 *Option A (Full CC Swipe):* *`\u20b947,199`* (-\u20b95,800 Bank)\n\u2794 \ud83d\udcb3 *Option B (3M No-Cost EMI):* *`\u20b945,450`* (-\u20b95,800 Bank + -\u20b91,749 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option C (6M No-Cost EMI):* *`\u20b944,290`* (-\u20b95,800 Bank + -\u20b92,909 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option D (9M No-Cost EMI):* *`\u20b943,014`* (-\u20b95,800 Bank + -\u20b94,185 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option E (12M No-Cost EMI):* *`\u20b941,721`* (-\u20b95,800 Bank + -\u20b95,478 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option F (18M No-Cost EMI):* *`\u20b939,083`* (-\u20b95,800 Bank + -\u20b98,116 NC EMI Discount) \u2b50 SABSE SASTA (Lowest Net Rate) \ud83d\udd25",
       "product_url": "https://www.oppo.com/in/product/reno16c-5g.P.P1110157",
@@ -988,7 +988,7 @@
         "OPPO Enco Buds3 Pro Graphite Grey"
       ],
       "has_gifts": true,
-      "gifts_in_stock": true,
+      "gifts_in_stock": false,
       "phone_stock": 1,
       "recipe": "1\ufe0f\u20e3 *Coupon:* [Points Page](https://www.oppo.com/in/store/events/diwalipointsforcoupons0923) se `Points Exchange \u20b95,000 OFF Coupon` (-\u20b95,000) collect karo\n2\ufe0f\u20e3 *Free Gift:* Cart me `OPPO Enco Buds3 Pro Graphite Grey` free gift auto-add hoga\n3\ufe0f\u20e3 *Payment & Bank Card Options:*\n\u2794 \ud83d\udcb3 *Option A (Full CC Swipe):* *`\u20b942,699`* (-\u20b95,300 Bank)\n\u2794 \ud83d\udcb3 *Option B (3M No-Cost EMI):* *`\u20b941,101`* (-\u20b95,300 Bank + -\u20b91,598 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option C (6M No-Cost EMI):* *`\u20b940,040`* (-\u20b95,300 Bank + -\u20b92,659 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option D (9M No-Cost EMI):* *`\u20b938,875`* (-\u20b95,300 Bank + -\u20b93,824 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option E (12M No-Cost EMI):* *`\u20b937,693`* (-\u20b95,300 Bank + -\u20b95,006 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option F (18M No-Cost EMI):* *`\u20b935,282`* (-\u20b95,300 Bank + -\u20b97,417 NC EMI Discount) \u2b50 SABSE SASTA (Lowest Net Rate) \ud83d\udd25",
       "product_url": "https://www.oppo.com/in/product/reno16c-5g.P.P1110157",
@@ -2707,12 +2707,12 @@
       ]
     }
   ],
-  "last_heartbeat": 1795192506.9575942,
+  "last_heartbeat": 1795195879.8204896,
   "summary": {
     "total_deals": 43,
-    "deals_with_gifts": 30,
+    "deals_with_gifts": 28,
     "high_points_deals": 11,
     "coupons": [],
-    "last_updated": "20 Nov, 10:05 PM"
+    "last_updated": "20 Nov, 11:01 PM"
   }
 }
