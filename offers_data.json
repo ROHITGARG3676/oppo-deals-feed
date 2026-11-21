@@ -2308,13 +2308,11 @@
       "coupon_amt": 0,
       "coupon_name": "None",
       "coupon_url": "https://www.oppo.com/in/product/a6s-5g.P.P1110123",
-      "gifts": [
-        "OPPO Enco Buds3 Pro Graphite Grey"
-      ],
-      "has_gifts": true,
-      "gifts_in_stock": true,
+      "gifts": [],
+      "has_gifts": false,
+      "gifts_in_stock": false,
       "phone_stock": 1,
-      "recipe": "1\ufe0f\u20e3 *Free Gift:* Cart me `OPPO Enco Buds3 Pro Graphite Grey` free gift auto-add hoga\n2\ufe0f\u20e3 *Payment & Bank Card Options:*\n\u2794 \ud83d\udcb3 *Option A (Full CC Swipe):* *`\u20b926,999`* (-\u20b91,000 Bank)\n\u2794 \ud83d\udcb3 *Option B (3M No-Cost EMI):* *`\u20b926,155`* (-\u20b91,000 Bank + -\u20b9844 NC EMI Discount) \u2b50 SABSE SASTA (Lowest Net Rate) \ud83d\udd25\n\u2794 \ud83d\udcb3 *Option C (6M No-Cost EMI):* *`\u20b926,999`* (-\u20b91,000 Bank)\n\u2794 \ud83d\udcb3 *Option D (9M No-Cost EMI):* *`\u20b926,999`* (-\u20b91,000 Bank)",
+      "recipe": "1\ufe0f\u20e3 *Payment & Bank Card Options:*\n\u2794 \ud83d\udcb3 *Option A (Full CC Swipe):* *`\u20b926,999`* (-\u20b91,000 Bank)\n\u2794 \ud83d\udcb3 *Option B (3M No-Cost EMI):* *`\u20b926,155`* (-\u20b91,000 Bank + -\u20b9844 NC EMI Discount) \u2b50 SABSE SASTA (Lowest Net Rate) \ud83d\udd25\n\u2794 \ud83d\udcb3 *Option C (6M No-Cost EMI):* *`\u20b926,999`* (-\u20b91,000 Bank)\n\u2794 \ud83d\udcb3 *Option D (9M No-Cost EMI):* *`\u20b926,999`* (-\u20b91,000 Bank)",
       "product_url": "https://www.oppo.com/in/product/a6s-5g.P.P1110123",
       "emi_options": [
         {
@@ -2371,13 +2369,11 @@
       "coupon_amt": 0,
       "coupon_name": "None",
       "coupon_url": "https://www.oppo.com/in/product/a6s-5g.P.P1110123",
-      "gifts": [
-        "OPPO Enco Buds3 Pro Graphite Grey"
-      ],
-      "has_gifts": true,
-      "gifts_in_stock": true,
+      "gifts": [],
+      "has_gifts": false,
+      "gifts_in_stock": false,
       "phone_stock": 1,
-      "recipe": "1\ufe0f\u20e3 *Free Gift:* Cart me `OPPO Enco Buds3 Pro Graphite Grey` free gift auto-add hoga\n2\ufe0f\u20e3 *Payment & Bank Card Options:*\n\u2794 \ud83d\udcb3 *Option A (Full CC Swipe):* *`\u20b923,999`* (-\u20b91,000 Bank)\n\u2794 \ud83d\udcb3 *Option B (3M No-Cost EMI):* *`\u20b923,245`* (-\u20b91,000 Bank + -\u20b9754 NC EMI Discount) \u2b50 SABSE SASTA (Lowest Net Rate) \ud83d\udd25\n\u2794 \ud83d\udcb3 *Option C (6M No-Cost EMI):* *`\u20b923,999`* (-\u20b91,000 Bank)\n\u2794 \ud83d\udcb3 *Option D (9M No-Cost EMI):* *`\u20b923,999`* (-\u20b91,000 Bank)",
+      "recipe": "1\ufe0f\u20e3 *Payment & Bank Card Options:*\n\u2794 \ud83d\udcb3 *Option A (Full CC Swipe):* *`\u20b923,999`* (-\u20b91,000 Bank)\n\u2794 \ud83d\udcb3 *Option B (3M No-Cost EMI):* *`\u20b923,245`* (-\u20b91,000 Bank + -\u20b9754 NC EMI Discount) \u2b50 SABSE SASTA (Lowest Net Rate) \ud83d\udd25\n\u2794 \ud83d\udcb3 *Option C (6M No-Cost EMI):* *`\u20b923,999`* (-\u20b91,000 Bank)\n\u2794 \ud83d\udcb3 *Option D (9M No-Cost EMI):* *`\u20b923,999`* (-\u20b91,000 Bank)",
       "product_url": "https://www.oppo.com/in/product/a6s-5g.P.P1110123",
       "emi_options": [
         {
@@ -2675,12 +2671,12 @@
       ]
     }
   ],
-  "last_heartbeat": 1795214169.6775146,
+  "last_heartbeat": 1795223688.4979255,
   "summary": {
     "total_deals": 43,
-    "deals_with_gifts": 12,
+    "deals_with_gifts": 10,
     "high_points_deals": 11,
     "coupons": [],
-    "last_updated": "21 Nov, 05:40 AM"
+    "last_updated": "21 Nov, 06:44 AM"
   }
 }
