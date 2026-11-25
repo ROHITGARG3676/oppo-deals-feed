@@ -711,6 +711,96 @@
       ]
     },
     {
+      "model": "OPPO Reno16 5G",
+      "variant": "8+256GB",
+      "series": "Reno Series",
+      "mrp": 72999,
+      "final_price": 56769,
+      "best_net_price": 53374,
+      "best_option_name": "12M No-Cost EMI",
+      "best_tenure_badge": "\u26a1 12M NC EMI",
+      "extra_nc_saving": 3395,
+      "saving": 19625,
+      "saving_pct": 26.9,
+      "save_pct": 1.0,
+      "coupon_amt": 5000,
+      "coupon_name": "Points Exchange \u20b95,000 OFF Coupon",
+      "coupon_url": "https://www.oppo.com/in/store/events/diwalipointsforcoupons0923",
+      "gifts": [
+        "OPPO Enco Buds3 Pro Graphite Grey"
+      ],
+      "has_gifts": true,
+      "gifts_in_stock": true,
+      "phone_stock": 1,
+      "recipe": "1\ufe0f\u20e3 *Coupon:* [Points Page](https://www.oppo.com/in/store/events/diwalipointsforcoupons0923) se `Points Exchange \u20b95,000 OFF Coupon` (-\u20b95,000) collect karo\n2\ufe0f\u20e3 *Points Benefit:* Cart me 1.0% points apply karo (-\u20b9730 ki bachat)\n3\ufe0f\u20e3 *Free Gift:* Cart me `OPPO Enco Buds3 Pro Graphite Grey` free gift auto-add hoga\n4\ufe0f\u20e3 *Payment & Bank Card Options:*\n\u2794 \ud83d\udcb3 *Option A (Full CC Swipe):* *`\u20b956,769`* (-\u20b910,500 Bank)\n\u2794 \ud83d\udcb3 *Option B (3M No-Cost EMI):* *`\u20b956,668`* (-\u20b98,400 Bank + -\u20b92,201 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option C (6M No-Cost EMI):* *`\u20b955,207`* (-\u20b98,400 Bank + -\u20b93,662 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option D (9M No-Cost EMI):* *`\u20b955,001`* (-\u20b97,000 Bank + -\u20b95,268 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option E (12M No-Cost EMI):* *`\u20b953,374`* (-\u20b97,000 Bank + -\u20b96,895 NC EMI Discount) \u2b50 SABSE SASTA (Lowest Net Rate) \ud83d\udd25\n\u2794 \ud83d\udcb3 *Option F (18M No-Cost EMI):* *`\u20b953,553`* (-\u20b93,500 Bank + -\u20b910,216 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option G (24M No-Cost EMI):* *`\u20b953,646`* (-\u20b913,623 NC EMI Discount)",
+      "product_url": "https://www.oppo.com/in/product/reno16-5g.P.P1110156",
+      "emi_options": [
+        {
+          "name": "Full CC Swipe",
+          "tenure": 0,
+          "tenure_badge": "\ud83d\udcb3 Full CC Swipe",
+          "net_price": 56769,
+          "bank_off": 10500,
+          "nc_off": 0,
+          "total_off": 10500
+        },
+        {
+          "name": "3M No-Cost EMI",
+          "tenure": 3,
+          "tenure_badge": "\u26a1 3M NC EMI",
+          "net_price": 56668,
+          "bank_off": 8400,
+          "nc_off": 2201,
+          "total_off": 10601
+        },
+        {
+          "name": "6M No-Cost EMI",
+          "tenure": 6,
+          "tenure_badge": "\u26a1 6M NC EMI",
+          "net_price": 55207,
+          "bank_off": 8400,
+          "nc_off": 3662,
+          "total_off": 12062
+        },
+        {
+          "name": "9M No-Cost EMI",
+          "tenure": 9,
+          "tenure_badge": "\u26a1 9M NC EMI",
+          "net_price": 55001,
+          "bank_off": 7000,
+          "nc_off": 5268,
+          "total_off": 12268
+        },
+        {
+          "name": "12M No-Cost EMI",
+          "tenure": 12,
+          "tenure_badge": "\u26a1 12M NC EMI",
+          "net_price": 53374,
+          "bank_off": 7000,
+          "nc_off": 6895,
+          "total_off": 13895
+        },
+        {
+          "name": "18M No-Cost EMI",
+          "tenure": 18,
+          "tenure_badge": "\u26a1 18M NC EMI",
+          "net_price": 53553,
+          "bank_off": 3500,
+          "nc_off": 10216,
+          "total_off": 13716
+        },
+        {
+          "name": "24M No-Cost EMI",
+          "tenure": 24,
+          "tenure_badge": "\u26a1 24M NC EMI",
+          "net_price": 53646,
+          "bank_off": 0,
+          "nc_off": 13623,
+          "total_off": 13623
+        }
+      ]
+    },
+    {
       "model": "OPPO Reno16c 5G",
       "variant": "8+256GB",
       "series": "Reno Series",
@@ -793,107 +883,17 @@
     },
     {
       "model": "OPPO Reno16 5G",
-      "variant": "8+256GB",
-      "series": "Reno Series",
-      "mrp": 72999,
-      "final_price": 57499,
-      "best_net_price": 54104,
-      "best_option_name": "12M No-Cost EMI",
-      "best_tenure_badge": "\u26a1 12M NC EMI",
-      "extra_nc_saving": 3395,
-      "saving": 18895,
-      "saving_pct": 25.9,
-      "save_pct": 0.0,
-      "coupon_amt": 5000,
-      "coupon_name": "Points Exchange \u20b95,000 OFF Coupon",
-      "coupon_url": "https://www.oppo.com/in/store/events/diwalipointsforcoupons0923",
-      "gifts": [
-        "OPPO Enco Buds3 Pro Graphite Grey"
-      ],
-      "has_gifts": true,
-      "gifts_in_stock": true,
-      "phone_stock": 1,
-      "recipe": "1\ufe0f\u20e3 *Coupon:* [Points Page](https://www.oppo.com/in/store/events/diwalipointsforcoupons0923) se `Points Exchange \u20b95,000 OFF Coupon` (-\u20b95,000) collect karo\n2\ufe0f\u20e3 *Free Gift:* Cart me `OPPO Enco Buds3 Pro Graphite Grey` free gift auto-add hoga\n3\ufe0f\u20e3 *Payment & Bank Card Options:*\n\u2794 \ud83d\udcb3 *Option A (Full CC Swipe):* *`\u20b957,499`* (-\u20b910,500 Bank)\n\u2794 \ud83d\udcb3 *Option B (3M No-Cost EMI):* *`\u20b957,398`* (-\u20b98,400 Bank + -\u20b92,201 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option C (6M No-Cost EMI):* *`\u20b955,937`* (-\u20b98,400 Bank + -\u20b93,662 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option D (9M No-Cost EMI):* *`\u20b955,731`* (-\u20b97,000 Bank + -\u20b95,268 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option E (12M No-Cost EMI):* *`\u20b954,104`* (-\u20b97,000 Bank + -\u20b96,895 NC EMI Discount) \u2b50 SABSE SASTA (Lowest Net Rate) \ud83d\udd25\n\u2794 \ud83d\udcb3 *Option F (18M No-Cost EMI):* *`\u20b954,283`* (-\u20b93,500 Bank + -\u20b910,216 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option G (24M No-Cost EMI):* *`\u20b954,376`* (-\u20b913,623 NC EMI Discount)",
-      "product_url": "https://www.oppo.com/in/product/reno16-5g.P.P1110156",
-      "emi_options": [
-        {
-          "name": "Full CC Swipe",
-          "tenure": 0,
-          "tenure_badge": "\ud83d\udcb3 Full CC Swipe",
-          "net_price": 57499,
-          "bank_off": 10500,
-          "nc_off": 0,
-          "total_off": 10500
-        },
-        {
-          "name": "3M No-Cost EMI",
-          "tenure": 3,
-          "tenure_badge": "\u26a1 3M NC EMI",
-          "net_price": 57398,
-          "bank_off": 8400,
-          "nc_off": 2201,
-          "total_off": 10601
-        },
-        {
-          "name": "6M No-Cost EMI",
-          "tenure": 6,
-          "tenure_badge": "\u26a1 6M NC EMI",
-          "net_price": 55937,
-          "bank_off": 8400,
-          "nc_off": 3662,
-          "total_off": 12062
-        },
-        {
-          "name": "9M No-Cost EMI",
-          "tenure": 9,
-          "tenure_badge": "\u26a1 9M NC EMI",
-          "net_price": 55731,
-          "bank_off": 7000,
-          "nc_off": 5268,
-          "total_off": 12268
-        },
-        {
-          "name": "12M No-Cost EMI",
-          "tenure": 12,
-          "tenure_badge": "\u26a1 12M NC EMI",
-          "net_price": 54104,
-          "bank_off": 7000,
-          "nc_off": 6895,
-          "total_off": 13895
-        },
-        {
-          "name": "18M No-Cost EMI",
-          "tenure": 18,
-          "tenure_badge": "\u26a1 18M NC EMI",
-          "net_price": 54283,
-          "bank_off": 3500,
-          "nc_off": 10216,
-          "total_off": 13716
-        },
-        {
-          "name": "24M No-Cost EMI",
-          "tenure": 24,
-          "tenure_badge": "\u26a1 24M NC EMI",
-          "net_price": 54376,
-          "bank_off": 0,
-          "nc_off": 13623,
-          "total_off": 13623
-        }
-      ]
-    },
-    {
-      "model": "OPPO Reno16 5G",
       "variant": "8+128GB",
       "series": "Reno Series",
       "mrp": 65999,
-      "final_price": 51099,
-      "best_net_price": 48165,
+      "final_price": 50439,
+      "best_net_price": 47505,
       "best_option_name": "12M No-Cost EMI",
       "best_tenure_badge": "\u26a1 12M NC EMI",
       "extra_nc_saving": 2934,
-      "saving": 17834,
-      "saving_pct": 27.0,
-      "save_pct": 0.0,
+      "saving": 18494,
+      "saving_pct": 28.0,
+      "save_pct": 1.0,
       "coupon_amt": 5000,
       "coupon_name": "Points Exchange \u20b95,000 OFF Coupon",
       "coupon_url": "https://www.oppo.com/in/store/events/diwalipointsforcoupons0923",
@@ -903,14 +903,14 @@
       "has_gifts": true,
       "gifts_in_stock": true,
       "phone_stock": 0,
-      "recipe": "1\ufe0f\u20e3 *Coupon:* [Points Page](https://www.oppo.com/in/store/events/diwalipointsforcoupons0923) se `Points Exchange \u20b95,000 OFF Coupon` (-\u20b95,000) collect karo\n2\ufe0f\u20e3 *Free Gift:* Cart me `OPPO Enco Buds3 Pro Graphite Grey` free gift auto-add hoga\n3\ufe0f\u20e3 *Payment & Bank Card Options:*\n\u2794 \ud83d\udcb3 *Option A (Full CC Swipe):* *`\u20b951,099`* (-\u20b99,900 Bank)\n\u2794 \ud83d\udcb3 *Option B (3M No-Cost EMI):* *`\u20b951,089`* (-\u20b97,920 Bank + -\u20b91,990 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option C (6M No-Cost EMI):* *`\u20b949,768`* (-\u20b97,920 Bank + -\u20b93,311 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option D (9M No-Cost EMI):* *`\u20b949,636`* (-\u20b96,600 Bank + -\u20b94,763 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option E (12M No-Cost EMI):* *`\u20b948,165`* (-\u20b96,600 Bank + -\u20b96,234 NC EMI Discount) \u2b50 SABSE SASTA (Lowest Net Rate) \ud83d\udd25\n\u2794 \ud83d\udcb3 *Option F (18M No-Cost EMI):* *`\u20b948,463`* (-\u20b93,300 Bank + -\u20b99,236 NC EMI Discount)",
+      "recipe": "1\ufe0f\u20e3 *Coupon:* [Points Page](https://www.oppo.com/in/store/events/diwalipointsforcoupons0923) se `Points Exchange \u20b95,000 OFF Coupon` (-\u20b95,000) collect karo\n2\ufe0f\u20e3 *Points Benefit:* Cart me 1.0% points apply karo (-\u20b9660 ki bachat)\n3\ufe0f\u20e3 *Free Gift:* Cart me `OPPO Enco Buds3 Pro Graphite Grey` free gift auto-add hoga\n4\ufe0f\u20e3 *Payment & Bank Card Options:*\n\u2794 \ud83d\udcb3 *Option A (Full CC Swipe):* *`\u20b950,439`* (-\u20b99,900 Bank)\n\u2794 \ud83d\udcb3 *Option B (3M No-Cost EMI):* *`\u20b950,429`* (-\u20b97,920 Bank + -\u20b91,990 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option C (6M No-Cost EMI):* *`\u20b949,108`* (-\u20b97,920 Bank + -\u20b93,311 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option D (9M No-Cost EMI):* *`\u20b948,976`* (-\u20b96,600 Bank + -\u20b94,763 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option E (12M No-Cost EMI):* *`\u20b947,505`* (-\u20b96,600 Bank + -\u20b96,234 NC EMI Discount) \u2b50 SABSE SASTA (Lowest Net Rate) \ud83d\udd25\n\u2794 \ud83d\udcb3 *Option F (18M No-Cost EMI):* *`\u20b947,803`* (-\u20b93,300 Bank + -\u20b99,236 NC EMI Discount)",
       "product_url": "https://www.oppo.com/in/product/reno16-5g.P.P1110156",
       "emi_options": [
         {
           "name": "Full CC Swipe",
           "tenure": 0,
           "tenure_badge": "\ud83d\udcb3 Full CC Swipe",
-          "net_price": 51099,
+          "net_price": 50439,
           "bank_off": 9900,
           "nc_off": 0,
           "total_off": 9900
@@ -919,7 +919,7 @@
           "name": "3M No-Cost EMI",
           "tenure": 3,
           "tenure_badge": "\u26a1 3M NC EMI",
-          "net_price": 51089,
+          "net_price": 50429,
           "bank_off": 7920,
           "nc_off": 1990,
           "total_off": 9910
@@ -928,7 +928,7 @@
           "name": "6M No-Cost EMI",
           "tenure": 6,
           "tenure_badge": "\u26a1 6M NC EMI",
-          "net_price": 49768,
+          "net_price": 49108,
           "bank_off": 7920,
           "nc_off": 3311,
           "total_off": 11231
@@ -937,7 +937,7 @@
           "name": "9M No-Cost EMI",
           "tenure": 9,
           "tenure_badge": "\u26a1 9M NC EMI",
-          "net_price": 49636,
+          "net_price": 48976,
           "bank_off": 6600,
           "nc_off": 4763,
           "total_off": 11363
@@ -946,7 +946,7 @@
           "name": "12M No-Cost EMI",
           "tenure": 12,
           "tenure_badge": "\u26a1 12M NC EMI",
-          "net_price": 48165,
+          "net_price": 47505,
           "bank_off": 6600,
           "nc_off": 6234,
           "total_off": 12834
@@ -955,7 +955,7 @@
           "name": "18M No-Cost EMI",
           "tenure": 18,
           "tenure_badge": "\u26a1 18M NC EMI",
-          "net_price": 48463,
+          "net_price": 47803,
           "bank_off": 3300,
           "nc_off": 9236,
           "total_off": 12536
@@ -2665,12 +2665,12 @@
       ]
     }
   ],
-  "last_heartbeat": 1795586165.4321728,
+  "last_heartbeat": 1795595203.9327736,
   "summary": {
     "total_deals": 43,
     "deals_with_gifts": 10,
     "high_points_deals": 11,
     "coupons": [],
-    "last_updated": "25 Nov, 12:26 PM"
+    "last_updated": "25 Nov, 01:56 PM"
   }
 }
