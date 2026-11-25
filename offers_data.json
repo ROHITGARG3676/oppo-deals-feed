@@ -821,7 +821,7 @@
       ],
       "has_gifts": true,
       "gifts_in_stock": true,
-      "phone_stock": 1,
+      "phone_stock": 0,
       "recipe": "1\ufe0f\u20e3 *Coupon:* [Points Page](https://www.oppo.com/in/store/events/diwalipointsforcoupons0923) se `Points Exchange \u20b95,000 OFF Coupon` (-\u20b95,000) collect karo\n2\ufe0f\u20e3 *Free Gift:* Cart me `OPPO Enco Buds3 Pro Graphite Grey` free gift auto-add hoga\n3\ufe0f\u20e3 *Payment & Bank Card Options:*\n\u2794 \ud83d\udcb3 *Option A (Full CC Swipe):* *`\u20b947,199`* (-\u20b95,800 Bank)\n\u2794 \ud83d\udcb3 *Option B (3M No-Cost EMI):* *`\u20b945,450`* (-\u20b95,800 Bank + -\u20b91,749 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option C (6M No-Cost EMI):* *`\u20b944,290`* (-\u20b95,800 Bank + -\u20b92,909 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option D (9M No-Cost EMI):* *`\u20b943,014`* (-\u20b95,800 Bank + -\u20b94,185 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option E (12M No-Cost EMI):* *`\u20b941,721`* (-\u20b95,800 Bank + -\u20b95,478 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option F (18M No-Cost EMI):* *`\u20b939,083`* (-\u20b95,800 Bank + -\u20b98,116 NC EMI Discount) \u2b50 SABSE SASTA (Lowest Net Rate) \ud83d\udd25",
       "product_url": "https://www.oppo.com/in/product/reno16c-5g.P.P1110157",
       "emi_options": [
@@ -902,7 +902,7 @@
       ],
       "has_gifts": true,
       "gifts_in_stock": true,
-      "phone_stock": 1,
+      "phone_stock": 0,
       "recipe": "1\ufe0f\u20e3 *Coupon:* [Points Page](https://www.oppo.com/in/store/events/diwalipointsforcoupons0923) se `Points Exchange \u20b95,000 OFF Coupon` (-\u20b95,000) collect karo\n2\ufe0f\u20e3 *Points Benefit:* Cart me 1.0% points apply karo (-\u20b9660 ki bachat)\n3\ufe0f\u20e3 *Free Gift:* Cart me `OPPO Enco Buds3 Pro Graphite Grey` free gift auto-add hoga\n4\ufe0f\u20e3 *Payment & Bank Card Options:*\n\u2794 \ud83d\udcb3 *Option A (Full CC Swipe):* *`\u20b950,439`* (-\u20b99,900 Bank)\n\u2794 \ud83d\udcb3 *Option B (3M No-Cost EMI):* *`\u20b950,429`* (-\u20b97,920 Bank + -\u20b91,990 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option C (6M No-Cost EMI):* *`\u20b949,108`* (-\u20b97,920 Bank + -\u20b93,311 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option D (9M No-Cost EMI):* *`\u20b948,976`* (-\u20b96,600 Bank + -\u20b94,763 NC EMI Discount)\n\u2794 \ud83d\udcb3 *Option E (12M No-Cost EMI):* *`\u20b947,505`* (-\u20b96,600 Bank + -\u20b96,234 NC EMI Discount) \u2b50 SABSE SASTA (Lowest Net Rate) \ud83d\udd25\n\u2794 \ud83d\udcb3 *Option F (18M No-Cost EMI):* *`\u20b947,803`* (-\u20b93,300 Bank + -\u20b99,236 NC EMI Discount)",
       "product_url": "https://www.oppo.com/in/product/reno16-5g.P.P1110156",
       "emi_options": [
@@ -2671,6 +2671,6 @@
     "deals_with_gifts": 10,
     "high_points_deals": 11,
     "coupons": [],
-    "last_updated": "25 Nov, 06:13 PM"
+    "last_updated": "25 Nov, 07:29 PM"
   }
 }
