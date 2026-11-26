@@ -2665,12 +2665,17 @@
       ]
     }
   ],
-  "last_heartbeat": 1795658193.1448789,
+  "last_heartbeat": 1795668442.071197,
   "summary": {
     "total_deals": 43,
     "deals_with_gifts": 10,
     "high_points_deals": 11,
-    "coupons": [],
-    "last_updated": "26 Nov, 09:12 AM"
+    "coupons": [
+      "Up to \u20b9200 OFF Coupon for Accessories",
+      "Up to \u20b9700 OFF Coupon for Audio",
+      "\u20b9600 OFF Coupon for Enco Air5",
+      "Power Bank \u20b9100 OFF Coupon"
+    ],
+    "last_updated": "26 Nov, 10:17 AM"
   }
 }
